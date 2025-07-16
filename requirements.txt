@@ -1,25 +1,24 @@
 # Core AI/ML Libraries
-groq==0.4.1
-sentence-transformers==3.0.1
-faiss-cpu==1.8.0
-numpy==1.24.3
+groq==0.30.0
+sentence-transformers==5.0.0
+faiss-cpu==1.11.0
+numpy==2.2.6
 
 # Document Processing
 PyPDF2==3.0.1
-opencv-python==4.10.0
-Pillow==10.3.0
+opencv-python==4.11.0.86
+pillow==11.2.1
 
 # Text Processing & NLP
-langchain==0.2.6
-langchain-text-splitters==0.2.1
-tiktoken==0.7.0
+langchain==0.3.26
+langchain-text-splitters==0.3.8
+tiktoken==0.9.0
 
 # Web Framework
-streamlit==1.36.0
+streamlit==1.45.1
 
 # Environment & Configuration
-python-dotenv==1.0.0
+python-dotenv==1.1.1
 
 # Data Processing
-pandas==2.2.2
-
+pandas==2.2.3
